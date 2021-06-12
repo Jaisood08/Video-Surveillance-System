@@ -8,7 +8,12 @@ Training the network is done using triplets. Here, we need to provide three imag
    o   Two of these images are example faces of the same person.
    o   The third image is a random face from our dataset and is not the same person as the other two images.
 
-![Demonstrate](https://github.com/Jaisood08/Video-Surveillance-System/blob/main/Demonstration.mp4)
+Watch Demonstration :
+![Demonstrate](https://github.com/Jaisood08/Video-Surveillance-System/blob/main/Demonstration.mp4?raw=true)
+
+OUTPUT:
+![1Demonstrate](https://github.com/Jaisood08/Video-Surveillance-System/blob/main/Actor_map.png)
+
 
 How to Use:
 
