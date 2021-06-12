@@ -17,3 +17,5 @@ How to Use:
 4. Run Train.py for training it will make a embedding.pickle file.
 5. Run VideoDetect.py you will get a video and map in ending .
 6. If you liked my approch then give it a stark and please provide your valuable suggestions .
+
+Also i have added a yml and requirements file so you can use them to easily run this code.
